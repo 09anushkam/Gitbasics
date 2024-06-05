@@ -14,7 +14,7 @@ to see how many commits/checkpoints we have been created - `git log --oneline`
 to see all the info related to checkpoint for eg:author and all then use - `git log`  
 to go one checkpoint back (undo) - `git reser --hard HEAD~1`  
 
-## To push code from Local system to Repo  (will edit this later)  
+## To push code from Local system to Repo  
 
 Create a repo and then follow these 7 steps and commands in local folder to push it to that github repository  
 
