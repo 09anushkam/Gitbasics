@@ -12,7 +12,7 @@ to check the value of above things - `git config --global -e`
 
 to see how many commits/checkpoints we have been created - `git log --oneline`  
 to see all the info related to checkpoint for eg:author and all then use - `git log`  
-to go one checkpoint back (undo) - `git reser --hard HEAD~1`  
+to go one checkpoint back (undo) - `git reset --hard HEAD~1`  
 
 ## To push code from Local system to Repo  
 
